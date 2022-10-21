@@ -1,2 +1,2 @@
 # Quiz
-A Quiz Website using APIS created by me as my first React Project. 
+A Quiz Website using APIs created by me as my first React Project. 
